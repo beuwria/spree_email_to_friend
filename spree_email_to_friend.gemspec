@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = s.summary
   s.required_ruby_version = '>= 1.9.3'
 
-  s.authors      = ['Jorge Calás Lozano', 'Roman Smirnov', 'Trung Lê']
+  s.authors      = ['Jorge Calas Lozano', 'Roman Smirnov', 'Trung Le']
   s.homepage     = 'https://github.com/spree/spree_email_to_friend'
   s.license      = %q{BSD-3}
 
